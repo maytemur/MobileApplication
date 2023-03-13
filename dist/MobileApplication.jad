@@ -1,0 +1,20 @@
+MIDlet-1: KanvasTest, , kurs.KanvasTest
+MIDlet-10: MidletUseJsp, , kurs.MidletUseJsp
+MIDlet-11: OyunTest, , kurs.OyunTest
+MIDlet-12: RMSTest, , kurs.RMSTest
+MIDlet-13: InvokeJSPMidlet, , kurs.InvokeJSPMidlet
+MIDlet-2: Chat2Midlets, , kurs.Chat2Midlets
+MIDlet-3: CommandTest, , kurs.CommandTest
+MIDlet-4: FormTest, , kurs.FormTest
+MIDlet-5: Hello, , kurs.Hello
+MIDlet-6: HttpConnectionTest, , kurs.HttpConnectionTest
+MIDlet-7: HttpsMIDlet, , kurs.HttpsMIDlet
+MIDlet-8: ImageTest, , kurs.ImageTest
+MIDlet-9: ListAndCommandTest, , kurs.ListAndCommandTest
+MIDlet-Jar-Size: 147061
+MIDlet-Jar-URL: MobileApplication.jar
+MIDlet-Name: MobileApplication
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
